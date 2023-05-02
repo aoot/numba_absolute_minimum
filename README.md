@@ -1,4 +1,4 @@
-# numba_absolute_minimum
+# Basic tutorial on Numba (adapted from @safijari 's tutorial)
 
 [Original Notebook](https://gist.github.com/safijari/fa4eba922cea19b3bc6a693fe2a97af7)
 
